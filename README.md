@@ -13,6 +13,8 @@ TODO
 
 ```
 yarn add -D jest @testing-library/react @testing-library/jest-dom @testing-library/user-event
+yarn add -D @babel/preset-react @babel/preset-typescript @babel/preset-env
+yarn add -D identity-obj-proxy
 ```
 
 ## Jest vs React Testing Library
