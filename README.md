@@ -9,13 +9,17 @@ TODO
 - Test components with mocking
 - Static analysis testing
 
+## Install Jest
+
+```
+yarn add -D jest @testing-library/react @testing-library/jest-dom @testing-library/user-event
+```
+
 ## Jest vs React Testing Library
 
 ### Jest
 
 - Javascript testing framework.
-<<<<<<< HEAD
-=======
 - A test runner that finds tests, runs the tests, determines whether the tests passed or failed and reports it back in a human readable manner# React Testing
 
 TODO
@@ -75,7 +79,6 @@ TODO
 ### Jest
 
 - Javascript testing framework.
->>>>>>> db42936 (first commit)
 - A test runner that finds tests, runs the tests, determines whether the tests passed or failed and reports it back in a human readable manner
 
 ### RTL
@@ -102,8 +105,8 @@ TODO
 
 - Focus is on testing the entire application flow and ensuring it works as designed from start to finish
 - Involves in a real UI, a real backed database, real services etc
-<<<<<<< HEAD
-=======
+  <<<<<<< HEAD
+  =======
 
 ### RTL
 
@@ -129,4 +132,4 @@ TODO
 
 - Focus is on testing the entire application flow and ensuring it works as designed from start to finish
 - Involves in a real UI, a real backed database, real services etc
->>>>>>> db42936 (first commit)
+  > > > > > > > db42936 (first commit)
